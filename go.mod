@@ -1,3 +1,3 @@
-module github.com/chzdo/test
+module test
 
 go 1.17
